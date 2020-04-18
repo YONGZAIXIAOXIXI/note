@@ -123,9 +123,24 @@ var f1 = true;
 ```
 ==数据转换==
 ```
-
+    // var n1 = 123;
+    //
+    // var str = n1 + "";
+    //
+    // var str2 = n1.toString(); // 很多数据类型都有 toString 方法 就是返回当前调用者的字符串表示
+    //
+    //
+    // console.log(str2);
+    //
+    // console.log(str.toString());
+    //
+    // console.log(true.toString());
+    
+    // console.log(String(123));
 
 ```
+案例：九九乘法表的实现
+
 
 
 
