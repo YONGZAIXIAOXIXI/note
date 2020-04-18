@@ -20,8 +20,12 @@ console.log(typeof(car)) // object
 
 - Undefined
 ----undefined 和 null 都不能 .toString() 转换
-```language
+```
+console.log(null==undefined)//true undefined派生于null
+console.log(null===undefined)//false
 
 ```
 
 - Object
+ Array、Object、Funtion
+
