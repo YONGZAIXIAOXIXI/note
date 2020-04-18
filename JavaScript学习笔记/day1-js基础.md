@@ -12,10 +12,16 @@
 - Boolean
 ----**undefined、null、NaN、false、0、"" 转换成 boolean 值均为 false**
 - NULL
-```var car = null
+```
+var car = null
 console.log(typeof(car)) // object
 
 ```
 
 - Undefined
+----undefined 和 null 都不能 .toString() 转换
+```language
+
+```
+
 - Object
