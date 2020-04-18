@@ -29,3 +29,6 @@ console.log(null===undefined)//false
 - Object
  Array、Object、Funtion
 
+**检测数据类型的方法typeof（）**
+
+
