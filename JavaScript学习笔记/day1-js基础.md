@@ -11,4 +11,7 @@
 ----toString()
 - Boolean
 ----**undefined、null、NaN、false、0、"" 转换成 boolean 值均为 false**
-- 
+- NULL
+- Undefined
+- Object
+- Symbol
