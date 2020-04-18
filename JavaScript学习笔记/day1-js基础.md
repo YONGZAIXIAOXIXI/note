@@ -49,10 +49,33 @@ var f1 = true;
 对象 你就给他想象成一块布 能包很多东西，对象是用来包数据的，函数就是用来包行为的。
 
 ==if条件判断==
+语法：
+```
+    // if(条件){
+    //     // 十九执行
+    // }else if(条件2){
+    //     // 条件2执行
+    // }else{
+    //     // 执行语句
+    // }
+
+```
+案例：
+```
+
+    // if(typeof(bl) == "number"){
+    //     console.log("变量是一个数字");
+    //
+    // }else if(typeof(bl) == "string"){
+    //     console.log("变量是一个字符串");
+    // }else if(typeof(bl) == "boolean"){
+    //     console.log("变量是一个布尔值");
+    //
+    // }
+
 ```
 
 
-```
 
 
 
