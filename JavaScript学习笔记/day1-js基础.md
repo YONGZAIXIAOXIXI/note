@@ -38,7 +38,11 @@ var wan = "大碗宽面";
 console.log(wan);
 var wan = "鸡蛋";
 console.log(wan);
-
+var s1 = "a3";
+var s2 = 'a2';
+var s3 = `a4`;
+var n1 = 123;
+var f1 = true;
 ```
  
 
