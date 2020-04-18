@@ -140,8 +140,25 @@ var f1 = true;
 
 ```
 案例：九九乘法表的实现
+```
+<script>
+          var str="";
+          for (var i=1;i<=9;i++){
 
+              for(var j=i;j<=9;j++){
+                  str=str+`${i}*${j}=${i*j}\t`
+              }
+              // str=str+"\n\n";
+              str=str+"<br/>"
+          }
+          // console.log(str);
+          document.write(str)
 
+</script>
+
+```
+
+![image.png](0)
 
 
 
