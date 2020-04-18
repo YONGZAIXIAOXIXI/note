@@ -4,5 +4,7 @@
 ### 2.JavaScript变量
 ==数据类型==
 - Number
-
+----parseInt()
+----parseFloat()
+- String
 - 
