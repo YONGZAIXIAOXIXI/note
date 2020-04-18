@@ -108,7 +108,26 @@ var f1 = true;
     // console.log(sumStr);
 
 ```
-==方式二：模板==
+==方式二：模板字符串==
+```
+// var str = `${s1}||${s2}fdsfdsfs`;
+    
+    // console.log(str);
+    // var n1 = 123;
+    //
+    //
+    // var str = `发送到${s1}范德萨范
+    //     ${n1}德萨发生的`
+    // console.log(str);
+
+```
+==数据转换==
+```
+
+
+```
+
+
 
 
 
