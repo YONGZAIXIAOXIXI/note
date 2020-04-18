@@ -7,4 +7,6 @@
 ----parseInt()
 ----parseFloat()
 - String
+----String()
+
 - 
