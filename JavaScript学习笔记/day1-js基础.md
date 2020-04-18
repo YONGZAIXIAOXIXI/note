@@ -32,6 +32,5 @@ console.log(null===undefined)//false
 **检测数据类型的方法typeof（）**
 
 ==定义变量==
-1. 定义变量的语法
-2. 
+定义 
 
