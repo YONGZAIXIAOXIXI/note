@@ -12,6 +12,10 @@
 - Boolean
 ----**undefined、null、NaN、false、0、"" 转换成 boolean 值均为 false**
 - NULL
+```var car = null
+console.log(typeof(car)) // object
+
+```
+
 - Undefined
 - Object
-- Symbol
