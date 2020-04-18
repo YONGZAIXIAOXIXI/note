@@ -32,5 +32,14 @@ console.log(null===undefined)//false
 **检测数据类型的方法typeof（）**
 
 ==定义变量==
-定义 
+定义变量的语法：
+```
+var wan = "大碗宽面";
+console.log(wan);
+var wan = "鸡蛋";
+
+    // console.log(wan);
+
+```
+ 
 
