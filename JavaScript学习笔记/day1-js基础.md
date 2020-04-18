@@ -37,8 +37,7 @@ console.log(null===undefined)//false
 var wan = "大碗宽面";
 console.log(wan);
 var wan = "鸡蛋";
-
-    // console.log(wan);
+console.log(wan);
 
 ```
  
