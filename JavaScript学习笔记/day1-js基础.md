@@ -6,7 +6,7 @@
 - Number
 ----parseInt()
 ----parseFloat()
-- String
+- String-字符串，带双引号
 ----String()
 ----toString()
 - Boolean
