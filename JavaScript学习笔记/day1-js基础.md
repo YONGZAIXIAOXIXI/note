@@ -8,5 +8,5 @@
 ----parseFloat()
 - String
 ----String()
-
-- 
+----toString()
+- Boolean
